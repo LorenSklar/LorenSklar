@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Loren 👋
 
-<!--
-**LorenSklar/LorenSklar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🏫 About Me
 
-Here are some ideas to get you started:
+- Instructor at the [Marcy Lab School](https://www.marcylabschool.org/) teaching Software Engineers how to not just build but understand software built with AI coding tools.
+- Born in **\_** → Raised in **\_** → Currently in **\_**.
+- Outside of work I like to **\_**
+- Let's connect via email: **\_**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack:
+
+### Languages
+
+- Python
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+gg
