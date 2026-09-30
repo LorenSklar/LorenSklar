@@ -18,4 +18,3 @@
 - Git
 - GitHub
 - VS Code
-gg
